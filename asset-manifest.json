@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/assignment5newest/static/css/main.3bd0773f.css",
+    "main.js": "/assignment5newest/static/js/main.c57ba595.js",
+    "static/js/453.92164278.chunk.js": "/assignment5newest/static/js/453.92164278.chunk.js",
+    "static/media/apple.jpg": "/assignment5newest/static/media/apple.10c1d91069db12bee5ee.jpg",
+    "index.html": "/assignment5newest/index.html",
+    "main.3bd0773f.css.map": "/assignment5newest/static/css/main.3bd0773f.css.map",
+    "main.c57ba595.js.map": "/assignment5newest/static/js/main.c57ba595.js.map",
+    "453.92164278.chunk.js.map": "/assignment5newest/static/js/453.92164278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd0773f.css",
+    "static/js/main.c57ba595.js"
+  ]
+}
